@@ -25,3 +25,14 @@ O objetivo deste projeto é gerar dados fictícios de vendas e análises a parti
 Durante este projeto, aprendi a utilizar o Pandas para manipulação de dados, Faker para geração de dados fictícios, e a interação entre Python e PostgreSQL para análise de dados.
 
 ## Resultados Gerados
+### Dataframe quantidade de vendas por mes e ano
+![WEB](https://github.com/diego105xz/RepositorioImg/blob/main/Dataframe_total_mes_ano.jpg)
+
+### Dataframe total de vendas por produto
+![WEB](https://github.com/diego105xz/RepositorioImg/blob/main/dataframe_total_de_vendas.jpg)
+
+### View lucro por produto
+![WEB](https://github.com/diego105xz/RepositorioImg/blob/main/View_produto_lucro.jpg)
+
+### View total de vendas por ano
+![WEB](https://github.com/diego105xz/RepositorioImg/blob/main/View_total_vendas_ano.jpg)
